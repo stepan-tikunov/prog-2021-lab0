@@ -1,3 +1,5 @@
+package edu.ifmo.tikunov.lab0;
+
 public class Main {
 	static final int SIZE = 17;
 	static final int MAX_A = 18;

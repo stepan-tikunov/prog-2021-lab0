@@ -1,1 +1,1 @@
-Main-class: Main
+Main-class: edu.ifmo.tikunov.lab0.Main
